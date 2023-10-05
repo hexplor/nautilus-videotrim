@@ -3,7 +3,7 @@
 
 ## Overview
 
-This script uses `ffmpeg` to trim video files. It is designed to be used within the Nautilus file manager on Ubuntu. It employs the `zenity` utility to display graphical dialogs for user input.
+This script uses `ffmpeg` to trim video files. It is designed to be used within the Nautilus file manager on Ubuntu or other distros. It employs the `zenity` utility to display graphical dialogs for user input.
 
 ## Requirements
 
